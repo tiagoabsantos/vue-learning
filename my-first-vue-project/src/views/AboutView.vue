@@ -1,11 +1,11 @@
 <script setup>
-import { counter } from '@/store/counterStorage';
+// import { counter } from '@/store/CounterStorage';
 </script>
 
 <template>
   <div class="about">
     <p>
-      About Page. The current count is {{ counter.count }}
+      <!-- About Page. The current count is {{ counter.count }} -->
     </p>
   </div>
 </template>
